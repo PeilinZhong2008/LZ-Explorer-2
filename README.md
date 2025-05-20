@@ -1,8 +1,9 @@
 # LZ-Explorer-2
 Foam Plane
 # Table of Contents
-Reminders
+Things to Note/Notice
 Material List
 Steps to Create
-Programs
-# Reminders
+Programs of Drone
+Referencing List
+# Things to Note/Notice
